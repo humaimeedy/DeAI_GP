@@ -9,7 +9,7 @@ The workbook `full_final_corpus_content_quality.xlsx` provides the study-level e
 | Worksheet | Contents |
 | --- | --- |
 | Review status | Corpus scope, counting rules and interpretation of the evidence |
-| Study evidence map | Compact RQ1 and RQ2 accounts for all 353 main studies, including concern codes, native measurement specifications, evidence classification and source locations; this preserves the study-level map previously presented in Appendix B |
+| Study evidence map | Compact RQ1 and RQ2 accounts for all 353 main studies, including concern codes, native measurement specifications, evidence classification and source locations. |
 | Coding key | The 27 RQ1 concern codes, their coding rules and the 12 RQ2 measurement classifications |
 | Corpus | Publication identities, discovery provenance, document and reading-status records |
 | Complete extraction | Native extraction fields covering AI context, public contribution, assessment object, measurements and supporting evidence |
